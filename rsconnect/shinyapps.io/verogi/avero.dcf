@@ -1,0 +1,10 @@
+name: avero
+title:
+username: verogi
+account: verogi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12227694
+bundleId: 8782187
+url: https://verogi.shinyapps.io/avero/
+version: 1
