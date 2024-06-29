@@ -1,3 +1,20 @@
+# Dengue in Buenos Aires City
+
+This project presents an interactive visualization of dengue cases in Buenos Aires City, using data from the Dengue Epidemiological Report available on the Buenos Aires open data portal. The dataset provides detailed information on dengue cases in the city by epidemiological week, including the affected individuals' residence comumas.
+
+To carry out this visualization, a Shiny application was developed. Additionally, custom styles were implemented using CSS to optimize the user experience, achieving a clearer and more attractive visual presentation of the information.
+
+**Features**
+- **Interactive Map**: Includes an interactive map of Buenos Aires City with defined comunas. Users can click on each comuna to get specific information about dengue cases in that area.
+- **Date Control**: A slider allows users to select a date range to visualize dengue case data during that period.
+- **Interactive Chart**: Shows a line chart detailing the total number of dengue notifications in the selected comunas and during the chosen period.
+- **Detailed Data**: Provides the totals of dengue notifications and deaths in the selected date range and comunas.
+
+**Data Source**
+
+- **Epidemiological Data**: Dengue Epidemiological Report of Buenos Aires. [https://data.buenosaires.gob.ar/dataset/reporte-epidemiologico-de-dengue](https://data.buenosaires.gob.ar/dataset/reporte-epidemiologico-de-dengue)
+- **Communes Shapefile**: Geospatial resource provided by Buenos Aires Data. [https://data.buenosaires.gob.ar/dataset/comunas/resource/Juqdkmgo-612222-resource](https://data.buenosaires.gob.ar/dataset/comunas/resource/Juqdkmgo-612222-resource)
+
 # Dengue en la Ciudad de Buenos Aires
 
 
